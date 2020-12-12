@@ -1,7 +1,7 @@
 # Install a specific version of composer
 
 Background:
-Composer released v2.0 on 2020/10/24. Now w/o specifing version, installer will download v2.0.
+Composer released v2.0 on 2020/10/24. Now w/o specifing version, installer will download the latest(v2.x.x).
 
 ```sh
 # composer
