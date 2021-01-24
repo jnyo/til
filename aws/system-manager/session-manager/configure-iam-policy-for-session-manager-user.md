@@ -1,4 +1,4 @@
-# Configure Iam Policy For Session Manager User
+# Configure Iam Policy for Session Manager user
 
 - restrict access to a specific instance
 - restrict access by IP
